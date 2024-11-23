@@ -1,0 +1,6 @@
+LogCollector/.idea
+.venv
+threatEvents/*
+DataSets/threatEvents.json
+DataSets/cleanedThreatEvents.json
+DataSets/threatEventsFixed.json
